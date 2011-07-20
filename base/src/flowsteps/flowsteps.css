@@ -28,8 +28,8 @@
 .flowsteps .current span {background-color: #f60;background-position: 0 -46px;color: #fff;}
 .flowsteps .next{background-position: 0 -23px;}
 .flowsteps .next span{background-position:0 -22px;}
-.flowsteps .next .last{background-position:100% -92px}
-.flowsteps li .first{background-position:0 -69px}
+.flowsteps .next .last{background-position:100% -92px;}
+.flowsteps span.first{background-position:0 -69px;}
 
 
 
