@@ -78,7 +78,7 @@
 a.s-current{color:#f60;text-decoration:underline;}
 
 /*面包屑*/
-.s-crumbs{padding:5px 10px;overflow:hidden;line-height:18px;border-bottom: 1px solid #ace;background:#f2f2f2 url(bg-repeatx.png) repeat-x 0 -10px;}
+.s-crumbs{padding:5px 10px;overflow:hidden;line-height:18px;border-bottom: 1px solid #ace;background:#f2f2f2 url(bg-repeatx.png) repeat-x 0 -10px;*zoom:1;}
 .s-crumbs span,
 .s-crumbs a{float:left;margin-left:2px;}
 .s-crumbs a{
