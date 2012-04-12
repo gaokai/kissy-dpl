@@ -8,7 +8,7 @@
 #header .logo{float:left;margin:20px 0 0 0;padding:0;border:none;}
 #header .sub-title{float:left;margin:45px 5px 0 5px;font:25px "Microsoft YaHei";color:#aaa;}
 #header .desc{float:left;margin-top:55px;margin-left:5px;font-size:15px;color:#80c269;font-weight:bold;font-family: "Microsoft YaHei";}
-#header  .navigation {float:right;margin:55px 0 0 0;overflow:hidden;list-style:none;}
+#header  .navigation {float:right;margin:55px 0 0 0;list-style:none;}
 #header  .navigation li {float:left;margin-left:-1px;padding: 0 10px 0 25px;line-height:1em;border-left:1px solid #ddd;background:url(bullet.gif) no-repeat 12px 50%;}
 
 #content{margin-bottom:10px;}
